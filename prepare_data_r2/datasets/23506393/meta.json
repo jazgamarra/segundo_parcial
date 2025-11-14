@@ -1,0 +1,8 @@
+{
+  "snapshot_file": "snap_pending_target23506393.json",
+  "target_block": 23506393,
+  "captured_at": "2025-10-04T19:07:11.513710+00:00",
+  "n_pending_hashes_raw": 145,
+  "n_enriched": 144,
+  "misses": 1
+}
